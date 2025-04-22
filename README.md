@@ -1,7 +1,9 @@
 # V2V_Fog_Navigation_System
 
 Shahnawaz Alam
+
 Lovely Professional University, Phagwara, India
+
 shahnawazalam85169@gmail.com
 
 Abstract: The V2V Fog Navigation System introduces a forward-thinking, IoT-driven safety mechanism
